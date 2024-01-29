@@ -35,7 +35,7 @@ If your favorite feature is missing and you really need Ruby Sass, you can alway
 
 ## Getting Started
 
-- Install: `npm install --global yo gulp-cli generator-webapp`
+- Install: `npm install --global yo gulp-cli git+https://github.com/blackwolf3342/generator-webapp.git`
 - Run `yo webapp` to scaffold your webapp
 - Run `npm start` to preview and watch for changes
 - Run `npm start -- --port=8080` to preview and watch for changes in port `8080`
